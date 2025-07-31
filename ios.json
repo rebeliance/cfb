@@ -1,0 +1,789 @@
+{
+  "conferences": [
+    {
+      "name": "Southeastern Conference",
+      "shortName": "SEC",
+      "hexColor": "CC0000",
+      "confTeams": [
+        {
+          "abbreviation": "BAMA",
+          "name": "Alabama",
+          "prestige": "92",
+          "ratingOff": "91",
+          "ratingDef": "90",
+          "hexColor": "9E1F63",
+          "rival": "LSU",
+          "headCoach": {
+            "name": "Kalen DeBoer",
+            "age": "48",
+            "contractLength": "6",
+            "startYear": "2024"
+          }
+        },
+        {
+          "abbreviation": "UGA",
+          "name": "Georgia",
+          "prestige": "95",
+          "ratingOff": "94",
+          "ratingDef": "94",
+          "hexColor": "BA0C2F",
+          "rival": "FLA",
+          "headCoach": {
+            "name": "Kirby Smart",
+            "age": "49",
+            "contractLength": "6",
+            "startYear": "2016"
+          }
+        },
+        {
+          "abbreviation": "LSU",
+          "name": "LSU",
+          "prestige": "90",
+          "ratingOff": "89",
+          "ratingDef": "84",
+          "hexColor": "341F97",
+          "rival": "BAMA",
+          "headCoach": {
+            "name": "Brian Kelly",
+            "age": "63",
+            "contractLength": "7",
+            "startYear": "2022"
+          }
+        },
+        {
+          "abbreviation": "TEN",
+          "name": "Tennessee",
+          "prestige": "85",
+          "ratingOff": "83",
+          "ratingDef": "80",
+          "hexColor": "FF8200",
+          "rival": "FLA",
+          "headCoach": {
+            "name": "Josh Heupel",
+            "age": "46",
+            "contractLength": "6",
+            "startYear": "2021"
+          }
+        },
+        {
+          "abbreviation": "MISS",
+          "name": "Ole Miss",
+          "prestige": "88",
+          "ratingOff": "87",
+          "ratingDef": "82",
+          "hexColor": "00205B",
+          "rival": "MISSST",
+          "headCoach": {
+            "name": "Lane Kiffin",
+            "age": "49",
+            "contractLength": "6",
+            "startYear": "2020"
+          }
+        },
+        {
+          "abbreviation": "TAMU",
+          "name": "Texas A&M",
+          "prestige": "88",
+          "ratingOff": "85",
+          "ratingDef": "84",
+          "hexColor": "500000",
+          "rival": "LSU",
+          "headCoach": {
+            "name": "Mike Elko",
+            "age": "47",
+            "contractLength": "5",
+            "startYear": "2024"
+          }
+        },
+        {
+          "abbreviation": "AUB",
+          "name": "Auburn",
+          "prestige": "85",
+          "ratingOff": "80",
+          "ratingDef": "86",
+          "hexColor": "001A57",
+          "rival": "BAMA",
+          "headCoach": {
+            "name": "Hugh Freeze",
+            "age": "55",
+            "contractLength": "2",
+            "startYear": "2023"
+          }
+        },
+        {
+          "abbreviation": "FLA",
+          "name": "Florida",
+          "prestige": "85",
+          "ratingOff": "82",
+          "ratingDef": "84",
+          "hexColor": "0021A5",
+          "rival": "UGA",
+          "headCoach": {
+            "name": "Billy Napier",
+            "age": "45",
+            "contractLength": "3",
+            "startYear": "2022"
+          }
+        },
+        {
+          "abbreviation": "KEN",
+          "name": "Kentucky",
+          "prestige": "85",
+          "ratingOff": "80",
+          "ratingDef": "84",
+          "hexColor": "005DAA",
+          "rival": "TEN",
+          "headCoach": {
+            "name": "Mark Stoops",
+            "age": "56",
+            "contractLength": "6",
+            "startYear": "2013"
+          }
+        },
+        {
+          "abbreviation": "VAN",
+          "name": "Vanderbilt",
+          "prestige": "77",
+          "ratingOff": "71",
+          "ratingDef": "74",
+          "hexColor": "000000",
+          "rival": "TEN",
+          "headCoach": {
+            "name": "Clark Lea",
+            "age": "41",
+            "contractLength": "4",
+            "startYear": "2021"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Atlantic Coast Conference",
+      "shortName": "ACC",
+      "hexColor": "990000",
+      "confTeams": [
+        {
+          "abbreviation": "CLEM",
+          "name": "Clemson",
+          "prestige": "90",
+          "ratingOff": "87",
+          "ratingDef": "90",
+          "hexColor": "F66733",
+          "rival": "SOUTH",
+          "headCoach": {
+            "name": "Dabo Swinney",
+            "age": "53",
+            "contractLength": "16",
+            "startYear": "2008"
+          }
+        },
+        {
+          "abbreviation": "LOU",
+          "name": "Louisville",
+          "prestige": "85",
+          "ratingOff": "82",
+          "ratingDef": "84",
+          "hexColor": "AE0000",
+          "rival": "CLEM",
+          "headCoach": {
+            "name": "Jeff Brohm",
+            "age": "53",
+            "contractLength": "2",
+            "startYear": "2023"
+          }
+        },
+        {
+          "abbreviation": "MIA",
+          "name": "Miami (FL)",
+          "prestige": "88",
+          "ratingOff": "89",
+          "ratingDef": "82",
+          "hexColor": "005030",
+          "rival": "FLST",
+          "headCoach": {
+            "name": "Mario Cristobal",
+            "age": "50",
+            "contractLength": "3",
+            "startYear": "2023"
+          }
+        },
+        {
+          "abbreviation": "FLST",
+          "name": "Florida State",
+          "prestige": "88",
+          "ratingOff": "85",
+          "ratingDef": "88",
+          "hexColor": "782F40",
+          "rival": "MIA",
+          "headCoach": {
+            "name": "Mike Norvell",
+            "age": "46",
+            "contractLength": "5",
+            "startYear": "2021"
+          }
+        },
+        {
+          "abbreviation": "NC",
+          "name": "North Carolina",
+          "prestige": "85",
+          "ratingOff": "82",
+          "ratingDef": "84",
+          "hexColor": "7BAFD4",
+          "rival": "NCST",
+          "headCoach": {
+            "name": "Mack Brown",
+            "age": "72",
+            "contractLength": "6",
+            "startYear": "2019"
+          }
+        },
+        {
+          "abbreviation": "NCST",
+          "name": "NC State",
+          "prestige": "87",
+          "ratingOff": "87",
+          "ratingDef": "82",
+          "hexColor": "CC0000",
+          "rival": "UNC",
+          "headCoach": {
+            "name": "Dave Doeren",
+            "age": "56",
+            "contractLength": "12",
+            "startYear": "2013"
+          }
+        },
+        {
+          "abbreviation": "SYR",
+          "name": "Syracuse",
+          "prestige": "85",
+          "ratingOff": "82",
+          "ratingDef": "82",
+          "hexColor": "D44500",
+          "rival": "BC",
+          "headCoach": {
+            "name": "Fran Brown",
+            "age": "36",
+            "contractLength": "1",
+            "startYear": "2024"
+          }
+        },
+        {
+          "abbreviation": "DUKE",
+          "name": "Duke",
+          "prestige": "80",
+          "ratingOff": "76",
+          "ratingDef": "76",
+          "hexColor": "001A57",
+          "rival": "UNC",
+          "headCoach": {
+            "name": "Manny Diaz",
+            "age": "58",
+            "contractLength": "1",
+            "startYear": "2023"
+          }
+        },
+        {
+          "abbreviation": "WF",
+          "name": "Wake Forest",
+          "prestige": "84",
+          "ratingOff": "80",
+          "ratingDef": "80",
+          "hexColor": "662D91",
+          "rival": "DUKE",
+          "headCoach": {
+            "name": "Dave Clawson",
+            "age": "59",
+            "contractLength": "11",
+            "startYear": "2014"
+          }
+        },
+        {
+          "abbreviation": "BC",
+          "name": "Boston College",
+          "prestige": "84",
+          "ratingOff": "78",
+          "ratingDef": "80",
+          "hexColor": "CC0000",
+          "rival": "SYR",
+          "headCoach": {
+            "name": "Bill O'Brien",
+            "age": "52",
+            "contractLength": "2",
+            "startYear": "2023"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Big 12 Conference",
+      "shortName": "Big 12",
+      "hexColor": "FDBB30",
+      "confTeams": [
+        {
+          "abbreviation": "TEX",
+          "name": "Texas",
+          "prestige": "92",
+          "ratingOff": "91",
+          "ratingDef": "88",
+          "hexColor": "BF5700",
+          "rival": "OSEA",
+          "headCoach": {
+            "name": "Steve Sarkisian",
+            "age": "50",
+            "contractLength": "4",
+            "startYear": "2022"
+          }
+        },
+        {
+          "abbreviation": "OKST",
+          "name": "Oklahoma State",
+          "prestige": "87",
+          "ratingOff": "83",
+          "ratingDef": "84",
+          "hexColor": "FF6600",
+          "rival": "TEX",
+          "headCoach": {
+            "name": "Mike Gundy",
+            "age": "58",
+            "contractLength": "20",
+            "startYear": "2005"
+          }
+        },
+        {
+          "abbreviation": "OKLA",
+          "name": "Oklahoma",
+          "prestige": "87",
+          "ratingOff": "83",
+          "ratingDef": "88",
+          "hexColor": "EF3B2D",
+          "rival": "TEX",
+          "headCoach": {
+            "name": "Brent Venables",
+            "age": "54",
+            "contractLength": "3",
+            "startYear": "2022"
+          }
+        },
+        {
+          "abbreviation": "KSU",
+          "name": "Kansas State",
+          "prestige": "85",
+          "ratingOff": "82",
+          "ratingDef": "84",
+          "hexColor": "512888",
+          "rival": "KU",
+          "headCoach": {
+            "name": "Chris Klieman",
+            "age": "58",
+            "contractLength": "6",
+            "startYear": "2018"
+          }
+        },
+        {
+          "abbreviation": "KU",
+          "name": "Kansas",
+          "prestige": "87",
+          "ratingOff": "87",
+          "ratingDef": "82",
+          "hexColor": "0051BA",
+          "rival": "KSU",
+          "headCoach": {
+            "name": "Lance Leipold",
+            "age": "59",
+            "contractLength": "4",
+            "startYear": "2021"
+          }
+        },
+        {
+          "abbreviation": "BAY",
+          "name": "Baylor",
+          "prestige": "82",
+          "ratingOff": "80",
+          "ratingDef": "76",
+          "hexColor": "003015",
+          "rival": "TCU",
+          "headCoach": {
+            "name": "Dave Aranda",
+            "age": "52",
+            "contractLength": "5",
+                    "startYear": "2020"
+          }
+        },
+        {
+          "abbreviation": "TCU",
+          "name": "TCU",
+          "prestige": "80",
+          "ratingOff": "78",
+          "ratingDef": "78",
+          "hexColor": "4D1979",
+          "rival": "BAY",
+          "headCoach": {
+            "name": "Sonny Dykes",
+            "age": "55",
+            "contractLength": "3",
+            "startYear": "2022"
+          }
+        },
+        {
+          "abbreviation": "BYU",
+          "name": "BYU",
+          "prestige": "80",
+          "ratingOff": "75",
+          "ratingDef": "78",
+          "hexColor": "003DA5",
+          "rival": "UTAH",
+          "headCoach": {
+            "name": "Kalani Sitake",
+            "age": "52",
+            "contractLength": "9",
+            "startYear": "2016"
+          }
+        },
+        {
+          "abbreviation": "CIN",
+          "name": "Cincinnati",
+          "prestige": "79",
+          "ratingOff": "75",
+          "ratingDef": "74",
+          "hexColor": "E00122",
+          "rival": "UH",
+          "headCoach": {
+            "name": "Scott Satterfield",
+            "age": "52",
+            "contractLength": "2",
+            "startYear": "2023"
+          }
+        },
+        {
+          "abbreviation": "KSU",
+          "name": "Iowa State",
+          "prestige": "84",
+          "ratingOff": "82",
+          "ratingDef": "82",
+          "hexColor": "E64018",
+          "rival": "KU",
+          "headCoach": {
+            "name": "Matt Campbell",
+            "age": "46",
+            "contractLength": "9",
+            "startYear": "2016"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Big Ten Conference",
+      "shortName": "Big Ten",
+      "hexColor": "003A70",
+      "confTeams": [
+        {
+          "abbreviation": "OSU",
+          "name": "Ohio State",
+          "prestige": "93",
+          "ratingOff": "89",
+          "ratingDef": "96",
+          "hexColor": "BB0000",
+          "rival": "MICH",
+          "headCoach": {
+            "name": "Ryan Day",
+            "age": "46",
+            "contractLength": "6",
+            "startYear": "2019"
+          }
+        },
+        {
+          "abbreviation": "MICH",
+          "name": "Michigan",
+          "prestige": "88",
+          "ratingOff": "82",
+          "ratingDef": "90",
+          "hexColor": "00274C",
+          "rival": "OSU",
+          "headCoach": {
+            "name": "Jim Harbaugh",
+            "age": "61",
+            "contractLength": "10",
+            "startYear": "2015"
+          }
+        },
+        {
+          "abbreviation": "PSU",
+          "name": "Penn State",
+          "prestige": "88",
+          "ratingOff": "87",
+          "ratingDef": "88",
+          "hexColor": "002855",
+          "rival": "MICH",
+          "headCoach": {
+            "name": "James Franklin",
+            "age": "52",
+            "contractLength": "11",
+            "startYear": "2014"
+          }
+        },
+        {
+          "abbreviation": "WISC",
+          "name": "Wisconsin",
+          "prestige": "87",
+          "ratingOff": "83",
+          "ratingDef": "86",
+          "hexColor": "C5050C",
+          "rival": "IOWA",
+          "headCoach": {
+            "name": "Luke Fickell",
+            "age": "52",
+            "contractLength": "2",
+            "startYear": "2023"
+          }
+        },
+        {
+          "abbreviation": "IOWA",
+          "name": "Iowa",
+          "prestige": "87",
+          "ratingOff": "76",
+          "ratingDef": "88",
+          "hexColor": "000000",
+          "rival": "WISC",
+          "headCoach": {
+            "name": "Kirk Ferentz",
+            "age": "66",
+            "contractLength": "26",
+            "startYear": "1999"
+          }
+        },
+        {
+          "abbreviation": "MINN",
+          "name": "Minnesota",
+          "prestige": "82",
+          "ratingOff": "78",
+          "ratingDef": "78",
+          "hexColor": "7A0019",
+          "rival": "WISC",
+          "headCoach": {
+            "name": "P.J. Fleck",
+            "age": "47",
+            "contractLength": "8",
+            "startYear": "2017"
+          }
+        },
+        {
+          "abbreviation": "MSU",
+          "name": "Michigan State",
+          "prestige": "80",
+          "ratingOff": "78",
+          "ratingDef": "76",
+          "hexColor": "18453B",
+          "rival": "UM",
+          "headCoach": {
+            "name": "Jonathan Smith",
+            "age": "44",
+            "contractLength": "1",
+            "startYear": "2024"
+          }
+        },
+        {
+          "abbreviation": "NEB",
+          "name": "Nebraska",
+          "prestige": "84",
+          "ratingOff": "78",
+          "ratingDef": "82",
+          "hexColor": "E41E26",
+          "rival": "IOWA",
+          "headCoach": {
+            "name": "Matt Rhule",
+            "age": "53",
+            "contractLength": "2",
+            "startYear": "2023"
+          }
+        },
+        {
+          "abbreviation": "IND",
+          "name": "Indiana",
+          "prestige": "82",
+          "ratingOff": "80",
+          "ratingDef": "78",
+          "hexColor": "002D62",
+          "rival": "PUR",
+          "headCoach": {
+            "name": "Curt Cignetti",
+            "age": "56",
+            "contractLength": "1",
+            "startYear": "2024"
+          }
+        },
+        {
+          "abbreviation": "ILL",
+          "name": "Illinois",
+          "prestige": "82",
+          "ratingOff": "76",
+          "ratingDef": "78",
+          "hexColor": "DB382D",
+          "rival": "UCLA",
+          "headCoach": {
+            "name": "Bret Bielema",
+            "age": "61",
+            "contractLength": "4",
+            "startYear": "2024"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Pac‑12 Conference",
+      "shortName": "Pac‑12",
+      "hexColor": "004C97",
+      "confTeams": [
+        {
+          "abbreviation": "ORE",
+          "name": "Oregon",
+          "prestige": "93",
+          "ratingOff": "94",
+          "ratingDef": "90",
+          "hexColor": "004F27",
+          "rival": "WSU",
+          "headCoach": {
+            "name": "Dan Lanning",
+            "age": "37",
+            "contractLength": "3",
+            "startYear": "2023"
+          }
+        },
+        {
+          "abbreviation": "USC",
+          "name": "USC",
+          "prestige": "87",
+          "ratingOff": "83",
+          "ratingDef": "86",
+          "hexColor": "990000",
+          "rival": "UCLA",
+          "headCoach": {
+            "name": "Lincoln Riley",
+            "age": "44",
+            "contractLength": "3",
+            "startYear": "2022"
+          }
+        },
+        {
+          "abbreviation": "UCLA",
+          "name": "UCLA",
+          "prestige": "82",
+          "ratingOff": "83",
+          "ratingDef": "76",
+          "hexColor": "005C8F",
+          "rival": "USC",
+          "headCoach": {
+            "name": "DeShaun Foster",
+            "age": "44",
+            "contractLength": "7",
+            "startYear": "2024"
+          }
+        },
+        {
+          "abbreviation": "WSU",
+          "name": "Washington State",
+          "prestige": "79",
+          "ratingOff": "75",
+          "ratingDef": "74",
+          "hexColor": "981E32",
+          "rival": "ORE",
+          "headCoach": {
+            "name": "Jake Dickert",
+            "age": "39",
+            "contractLength": "3",
+            "startYear": "2022"
+          }
+        },
+        {
+          "abbreviation": "OREST",
+          "name": "Oregon State",
+          "prestige": "79",
+          "ratingOff": "73",
+          "ratingDef": "76",
+          "hexColor": "E03A3E",
+          "rival": "ORE",
+          "headCoach": {
+            "name": "Trent Bray",
+            "age": "38",
+            "contractLength": "1",
+            "startYear": "2024"
+          }
+        },
+        {
+          "abbreviation": "CAL",
+          "name": "California",
+          "prestige": "82",
+          "ratingOff": "78",
+          "ratingDef": "78",
+          "hexColor": "003262",
+          "rival": "STAN",
+          "headCoach": {
+            "name": "Justin Wilcox",
+            "age": "54",
+            "contractLength": "8",
+            "startYear": "2017"
+          }
+        },
+        {
+          "abbreviation": "STAN",
+          "name": "Stanford",
+          "prestige": "82",
+          "ratingOff": "78",
+          "ratingDef": "78",
+          "hexColor": "8C1515",
+          "rival": "CAL",
+          "headCoach": {
+            "name": "Troy Taylor",
+            "age": "46",
+            "contractLength": "2",
+            "startYear": "2024"
+          }
+        },
+        {
+          "abbreviation": "ASU",
+          "name": "Arizona State",
+          "prestige": "79",
+          "ratingOff": "75",
+          "ratingDef": "74",
+          "hexColor": "940027",
+          "rival": "ARIZ",
+          "headCoach": {
+            "name": "Kenny Dillingham",
+            "age": "38",
+            "contractLength": "2",
+            "startYear": "2023"
+          }
+        },
+        {
+          "abbreviation": "ARIZ",
+          "name": "Arizona",
+          "prestige": "87",
+          "ratingOff": "87",
+          "ratingDef": "82",
+          "hexColor": "CC0033",
+          "rival": "ASU",
+          "headCoach": {
+            "name": "Brent Brennan",
+            "age": "53",
+            "contractLength": "1",
+            "startYear": "2024"
+          }
+        },
+        {
+          "abbreviation": "UW",
+          "name": "Washington",
+          "prestige": "82",
+          "ratingOff": "80",
+          "ratingDef": "76",
+          "hexColor": "002244",
+          "rival": "WSU",
+          "headCoach": {
+            "name": "Jedd Fisch",
+            "age": "48",
+            "contractLength": "1",
+            "startYear": "2024"
+          }
+        }
+      ]
+    }
+  ]
+}
